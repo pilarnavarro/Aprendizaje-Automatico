@@ -1,0 +1,35 @@
+\BOOKMARK [1][-]{section.1}{Clasificaci\363n: Sensorless Drive Diagnosis}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problema}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Selecci\363n de la clase de funciones a usar}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Hip\363tesis finales}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Conjuntos de training y test}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Preprocesamiento}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Normalizaci\363n}{subsection.1.5}% 7
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Tratamiento de los outliers}{subsection.1.5}% 8
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Eliminaci\363n de caracter\355sticas no informativas}{subsection.1.5}% 9
+\BOOKMARK [3][-]{subsubsection.1.5.4}{Correlaci\363n entre las variables}{subsection.1.5}% 10
+\BOOKMARK [3][-]{subsubsection.1.5.5}{Pasos seguidos}{subsection.1.5}% 11
+\BOOKMARK [3][-]{subsubsection.1.5.6}{Visualizaci\363n de los datos preprocesados}{subsection.1.5}% 12
+\BOOKMARK [2][-]{subsection.1.6}{M\351trica de error}{section.1}% 13
+\BOOKMARK [2][-]{subsection.1.7}{Par\341metros y regularizaci\363n}{section.1}% 14
+\BOOKMARK [3][-]{subsubsection.1.7.1}{Regresi\363n Log\355stica}{subsection.1.7}% 15
+\BOOKMARK [3][-]{subsubsection.1.7.2}{Regularizaci\363n}{subsection.1.7}% 16
+\BOOKMARK [3][-]{subsubsection.1.7.3}{Support Vector Machines}{subsection.1.7}% 17
+\BOOKMARK [3][-]{subsubsection.1.7.4}{An\341lisis del par\341metro de regularizaci\363n obtenido}{subsection.1.7}% 18
+\BOOKMARK [2][-]{subsection.1.8}{Selecci\363n de la mejor hip\363tesis}{section.1}% 19
+\BOOKMARK [2][-]{subsection.1.9}{Entrenamiento con todos los datos}{section.1}% 20
+\BOOKMARK [1][-]{section.2}{Regresi\363n}{}% 21
+\BOOKMARK [2][-]{subsection.2.1}{Problema}{section.2}% 22
+\BOOKMARK [2][-]{subsection.2.2}{Selecci\363n de la clase de funciones a usar}{section.2}% 23
+\BOOKMARK [2][-]{subsection.2.3}{Hip\363tesis finales}{section.2}% 24
+\BOOKMARK [2][-]{subsection.2.4}{Conjuntos de training y test}{section.2}% 25
+\BOOKMARK [2][-]{subsection.2.5}{M\351trica de error}{section.2}% 26
+\BOOKMARK [2][-]{subsection.2.6}{Preprocesamiento}{section.2}% 27
+\BOOKMARK [3][-]{subsubsection.2.6.1}{Pasos seguidos}{subsection.2.6}% 28
+\BOOKMARK [3][-]{subsubsection.2.6.2}{Visualizaci\363n de los datos preprocesados}{subsection.2.6}% 29
+\BOOKMARK [2][-]{subsection.2.7}{Par\341metros y regularizaci\363n}{section.2}% 30
+\BOOKMARK [3][-]{subsubsection.2.7.1}{Regresi\363n lineal con regularizaci\363n de tipo Ridge}{subsection.2.7}% 31
+\BOOKMARK [3][-]{subsubsection.2.7.2}{Support Vector Regression, SVR}{subsection.2.7}% 32
+\BOOKMARK [3][-]{subsubsection.2.7.3}{An\341lisis de los mejores valores de los hiperpar\341metros}{subsection.2.7}% 33
+\BOOKMARK [2][-]{subsection.2.8}{Selecci\363n de la mejor hip\363tesis}{section.2}% 34
+\BOOKMARK [2][-]{subsection.2.9}{Entrenamiento con todos los datos }{section.2}% 35
